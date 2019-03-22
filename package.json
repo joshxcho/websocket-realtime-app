@@ -2,7 +2,7 @@
   "name": "websocket-realtime-app",
   "version": "1.0.0",
   "description": "",
-  "author": "",
+  "author": "Josh Cho",
   "licence": "",
   "scripts": {
     "react-dev": "webpack -d --watch",
